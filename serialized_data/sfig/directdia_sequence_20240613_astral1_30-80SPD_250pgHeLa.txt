@@ -1,0 +1,31 @@
+﻿	protein groups directDIA+	protein groups directDIA+	protein groups directDIA+	protein groups directDIA+	protein groups directDIA+	protein groups directDIA+	precursors directDIA+	precursors directDIA+	precursors directDIA+	precursors directDIA+	precursors directDIA+	precursors directDIA+
+250 pg	6133						52616					
+250 pg	6130						52580					
+250 pg	6138						52562					
+250 pg	6141						52562					
+250 pg	6126						52497					
+wash	218						493					
+wash	202						451					
+wash	91						169					
+wash	63						101					
+wash	40						55					
+250 pg	6044						52784					
+250 pg	6046						52592					
+250 pg	6067						52708					
+250 pg	6064						52551					
+250 pg	6064						52827					
+wash	358						858					
+wash	342						801					
+wash	291						651					
+wash	154						304					
+wash	97						156					
+250 pg	5353						37482					
+250 pg	5396						37978					
+250 pg	5421						37693					
+250 pg	5377						37674					
+250 pg	5388						37884					
+wash	233						494					
+wash	233						451					
+wash	106						186					
+wash	8						8					
+wash	51						78					

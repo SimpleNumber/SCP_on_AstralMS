@@ -1,0 +1,31 @@
+﻿	sum protein quantity	sum protein quantity	sum protein quantity	sum protein quantity	sum protein quantity	sum protein quantity						
+250 pg	2,0464911e+007											
+250 pg	1,9457728e+007											
+250 pg	1,8939133e+007											
+250 pg	1,9111606e+007											
+250 pg	1,7958155e+007											
+wash	65755,23											
+wash	14080,01											
+wash	8313,146											
+wash	5854,959											
+wash	3945,247											
+250 pg	2,4921538e+007											
+250 pg	2,4677676e+007											
+250 pg	2,628917e+007											
+250 pg	2,4278358e+007											
+250 pg	2,3707676e+007											
+wash	99621,09											
+wash	27643,91											
+wash	15292,5											
+wash	10653,3											
+wash	6335,154											
+250 pg	1,6378417e+007											
+250 pg	2,0169774e+007											
+250 pg	2,0529325e+007											
+250 pg	1,7124484e+007											
+250 pg	2,0857137e+007											
+wash	49955,58											
+wash	17093,03											
+wash	9210,361											
+wash	910,9287											
+wash	5906,837											

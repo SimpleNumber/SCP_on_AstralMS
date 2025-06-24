@@ -1,0 +1,31 @@
+﻿	protein groups method evaluation	protein groups method evaluation	protein groups method evaluation	protein groups method evaluation	protein groups method evaluation	protein groups method evaluation	precursors method evaluation	precursors method evaluation	precursors method evaluation	precursors method evaluation	precursors method evaluation	precursors method evaluation
+250 pg	5512						39720					
+250 pg	5600						39361					
+250 pg	5439						37980					
+250 pg	5383						39113					
+250 pg	5531						37840					
+wash	0						0					
+wash	0						0					
+wash	0						0					
+wash	0						0					
+wash	0						0					
+250 pg	5438						39425					
+250 pg	5223						38988					
+250 pg	5515						39657					
+250 pg	5545						40163					
+250 pg	5339						38735					
+wash	0						0					
+wash	0						0					
+wash	0						0					
+wash	0						0					
+wash	0						0					
+250 pg	4671						26395					
+250 pg	4191						26040					
+250 pg	4878						28334					
+250 pg	4699						26689					
+250 pg	4890						28922					
+wash							0					
+wash							0					
+wash							0					
+wash							0					
+wash							0					
